@@ -1,5 +1,3 @@
-# gold-price-tracker-submissions
-
 # Gold Price Tracker Web App
 
 ## Team Members
